@@ -61,7 +61,8 @@ span.overlay,
 #preloader .s1 span,
 header.smaller #mainmenu a span
 {
-	background-color:#35a22c ;
+	/* background-color:#35a22c ; */
+	background-color: #0ea8cf;
 }
 
 .feature-box i,
@@ -118,7 +119,8 @@ h2.hs1 span,
 .countdown-s4 .countdown-period,
 .social-icons i:hover
 {
-	color:#35a22c;
+	/* color:#35a22c; */
+	color: #0ea8cf;
 }
 
 .feature-box i,
@@ -144,7 +146,8 @@ h2.hs1 span,
 .social-icons i:hover
 {
 
-	border-color:#35a22c ;
+	/* border-color:#35a22c ; */
+	border-color: #0ea8cf;
 }
 
 .box-fx .inner,
@@ -161,44 +164,48 @@ h2.hs1 span,
 .text-light .separator span:after ,
 .form-underline input[type=text]:focus, .form-underline textarea:focus, .form-underline input[type=email]:focus, .form-underline select:focus
 {
-	border-bottom-color:#35a22c ;
+	/* border-bottom-color:#35a22c ; */
+	border-bottom-color: #0ea8cf;
 }
 
 .arrow-down,
 .preloader1{
-	border-top-color:#35a22c ;
+	/* border-top-color:#35a22c ; */
+	border-top-color:#0ea8cf ;
 }
 
 .callbacks_nav {
-	background-color:#35a22c ;
+	/* background-color:#35a22c ; */
+	background-color: #0ea8cf;
 }
 
 
 .de_tab .de_nav li span {
-border-top: 3px solid #35a22c ;
+/* border-top: 3px solid #35a22c ; */
+	border-top: #0ea8cf;
 }
 
 .feature-box-big-icon i:after {
-border-color: #35a22c  transparent; /*same colour as the lower of the bubble's gradient*/
+border-color: #0ea8cf  transparent; /*same colour as the lower of the bubble's gradient*/
 }
 
 .de_review li.active img{
-	border:solid 4px #35a22c ;
+	border:solid 4px #0ea8cf ;
 }
 
 .de_tab.tab_style_4 .de_nav li{
-border-right-color:#35a22c ;
+border-right-color: #0ea8cf ;
 }
 
 blockquote{
-border-left-color:#35a22c;
+border-left-color: #0ea8cf;
 }
 
 span.overlay,
 .feature-box:hover .inner,
 section.bg-gradient{
 /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#35a22c+0,0ea8cf+100 */
-background: #35a22c; /* Old browsers */
+background: #0ea8cf; /* Old browsers */
 background: -moz-linear-gradient(45deg, #35a22c 0%, #0ea8cf 100%); /* FF3.6-15 */
 background: -webkit-linear-gradient(45deg, #35a22c 0%,#0ea8cf 100%); /* Chrome10-25,Safari5.1-6 */
 background: linear-gradient(45deg, #35a22c 0%,#0ea8cf 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
