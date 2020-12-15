@@ -1,5 +1,7 @@
 # Portafolio_Profesional
 
-This is my first landing page ,you can see it:
+1. read the file Brief_N1_portafolio_personal.pdf
+
+This is my first landing page personal ,you can see it:
 
 https://portafolio-profesional.vercel.app/
